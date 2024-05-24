@@ -1,12 +1,23 @@
+<!--Animation GIF line(start)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<!--END-->
 
+
+<!--Hi massage -->
 <h1 align="center">Hi 👋, I'm Dinuka Prasad <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></h1>
+<!--END-->
 
+<!--Animated Word line (start)-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Have+A+Nice+Day..&hearts;++;A+Person+Interested+About+The+IT+Field,;Softwere+Engineering+Student..;Active+Learner+And+Researcher..🧑‍💻;Love+to+learn+new+stuffs..&hearts;"></a>
 </p>
+<!--END-->
 
+<!--Visiter Count (Start)-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dinukaprasad&label=Profile%20views&color=0e75b6&style=flat" alt="dinukaprasad" /> </p>
+<!--END-->
+
+### My Github Status :
 
 - 🧑🏻‍🎓 I'm a student of **: ICBT Campus** 
 
@@ -33,6 +44,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Ko-fi dinukaprasad"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi dinukaprasad" /></a></p><br><br>
 
+
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -50,7 +62,7 @@
   
   </td>
 </tr>
-</table>
+</table></p>
 
 
 
@@ -62,3 +74,4 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
