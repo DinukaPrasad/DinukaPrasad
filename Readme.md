@@ -6,19 +6,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Have+A+Nice+Day..&hearts;++;A+Person+Interested+About+The+IT+Field,;Softwere+Engineering+Student..;Active+Learner+And+Researcher..🧑‍💻;Love+to+learn+new+stuffs..&hearts;"></a>
 </p>
 
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dinukaprasad&label=Profile%20views&color=0e75b6&style=flat" alt="dinukaprasad" /> </p>
 
-- 🔭 I’m currently working on **My own project**
+- 🧑🏻‍🎓 I'm a student of **: ICBT Campus** 
 
-- 🌱 I’m currently learning **Software Engineer**
+- 🔭 I’m currently working on **: My own project**
 
-- 💬 Ask me about **OOP , Java , Ms SQL server**
+- 🌱 I’m currently learning **: Software Engineer**
 
-- 📫 How to reach me **dinukaprasad.pr99@gmail.com**
+- 💬 Ask me about **: OOP / Java / Ms SQL / C++**
 
-- ⚡ Fun fact **Call me Beast99**
+- 📫 How to reach me **: dinukaprasad.pr99@gmail.com**
+
+- ⚡ Fun fact **: Call me Beast99**
 
 <h3 align="center"> Connect with me: <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> </h3>
 <p align="center">
@@ -33,11 +33,24 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Ko-fi dinukaprasad"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi dinukaprasad" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinukaprasad&show_icons=true&locale=en&layout=compact" alt="dinukaprasad" /></p>
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dinukaprasad&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dinukaprasad&theme=dark&hide_border=false" /> 
+</td>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinukaprasad&show_icons=true&locale=en" alt="dinukaprasad" /></p>
+<td width="50%" align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinukaprasad&" alt="dinukaprasad" /></p>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dinukaprasad&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 
 
