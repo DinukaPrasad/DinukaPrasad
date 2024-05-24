@@ -32,3 +32,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinukaprasad&" alt="dinukaprasad" /></p>
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DinukaPrasad/DinukaPrasad/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DinukaPrasad/DinukaPrasad/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/DinukaPrasad/DinukaPrasad/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
