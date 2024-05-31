@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **: My own project**
 
-- 🌱 I’m currently learning **: Software Engineer**
+- 🌱 I’m currently learning **: Software Engineering**
 
 - 💬 Ask me about **: OOP / Java / Ms SQL / C++**
 
