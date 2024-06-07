@@ -82,7 +82,7 @@ Hi 👋, I'm Dinuka Prasad
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">Connect With Me:
 </h3>
 <p align="center">
-<a href="https://linkedin.com/in/dinukaprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/dinukaprasad/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinukaprasad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dinukaprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinukaprasad" height="30" width="40" /></a>
 <a href="https://fb.com/dinuka prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinuka prasad" height="30" width="40" /></a>
 <a href="https://instagram.com/dinuka_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinuka_99" height="30" width="40" /></a>
 </p>
