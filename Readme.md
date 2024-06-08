@@ -32,7 +32,7 @@ Hi 👋, I'm Dinuka Prasad
 <tr border="">
 <td width="50%" align="left">
   
-- 🧑🏻‍🎓 I'm a student of **: ICBT Campus** 
+- 🧑🏻‍🎓 I'm a student of **: ICBT Campus..** 
 
 - 🔭 I’m currently working on **: My own project**
 
