@@ -34,7 +34,7 @@ Hi 👋, I'm Dinuka Prasad..
   
 - 🧑🏻‍🎓 I'm a student of **: ICBT Campus** 
 
-- 🔭 I’m currently working on **: My own project**
+- 🔭 I’m currently working on **: My own projects**
 
 - 🌱 I’m currently learning **: Software Engineering**
 
