@@ -15,7 +15,7 @@ Hi 👋, I'm Dinuka Prasad..
 <!--Animated Word line (start)-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&&duration=3000&pause=1000&size=25&center=true&vCenter=true&width=600&height=100&lines=Have+A+Nice+Day...&hearts;++;A+Person+Interested+About+The+IT+Field;Softwere+Engineering+Student..;Active+Learner+And+Researcher..🧑‍💻;Love+to+learn+new+stuffs...&hearts;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&&duration=3000&pause=1000&size=25&center=true&vCenter=true&width=600&height=100&lines=Have+A+Nice+Day...&hearts;++;A+Person+Interested+About+The+IT+Field;Softwere+Engineering+Student..;Active+Learner+And+Researcher..🧑‍💻;Love+To+Learn+New+Stuffs...&hearts;">
   </a>
 </p>
 <!--END-->
