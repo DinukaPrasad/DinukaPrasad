@@ -5,7 +5,7 @@
 
 <!--Hi massage -->
 <h1 align="center">
-Hi 👋, I'm Dinuka Prasad...
+Hi 👋, I'm Dinuka Prasad.....
 </h1>
 <!--END-->
 
