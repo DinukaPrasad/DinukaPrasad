@@ -39,7 +39,7 @@ Hi 👋, I'm Dinuka Prasad.....
 
 - 📫 How to reach me **: dinukaprasad.pr99@gmail.com**
 
-- ⚡ Fun fact **: Call Me Beast_99**
+- ⚡ Fun fact **: Call Me Dino**
 
 </td>
 <td width="40%" align="right">
