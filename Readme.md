@@ -29,7 +29,7 @@ Hi 👋, I'm Dinuka Prasad.....
 <tr border="">
 <td width="60%" align="left">
   
-- 🧑🏻‍🎓 I'm a student of **: ICBT Campus** 
+- 🧑🏻‍🎓 I'm a student of **: Cardiff Metropolitan University** 
 
 - 🔭 I’m currently working on **: My own projects**
 
